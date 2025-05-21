@@ -126,7 +126,7 @@ Explore how to effectively use EvoAgentX with the following resources:
 
 - [Discord](https://discord.com/invite/EvoAgentX) — Chat, discuss, and collaborate in real-time.
 - [X (formerly Twitter)](https://x.com/EvoAgentX) — Follow us for news, updates, and insights.
-- [WeChat]() — Connect with our Chinese community.
+- [WeChat](./assets/evologo.png) — Connect with our Chinese community.
 
 ### Contact Information
 
